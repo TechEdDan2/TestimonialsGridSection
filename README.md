@@ -60,7 +60,7 @@ I'm going to continue to try using Grid in different projects to practice.
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - This helped me when using the Document Object Model to create this project. 
 - [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp) - This Udemy course has helped to learn how to use the DOM. I'd recommend it to anyone still learning this concept.
-- [YouTube: Kevin Powell] (https://youtu.be/rg7Fvvl3taU?si=t8x5nKKq4dzt7tot) - After I got stuck trying to learn Grid on my own, I watched this video by Kevin Powell to help with my mistakes. 
+- [YouTube: Kevin Powell](https://youtu.be/rg7Fvvl3taU?si=t8x5nKKq4dzt7tot) - After I got stuck trying to learn Grid on my own, I watched this video by Kevin Powell to help with my mistakes. 
 
 ## Author
 
