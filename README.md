@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TechEdDan2/TestimonialsGridSection)
-- Live Site URL: [Add live site URL here](https://techeddan2.github.io/TestimonialsGridSection/)
+- Solution URL: [Solution URL here](https://github.com/TechEdDan2/TestimonialsGridSection)
+- Live Site URL: [Live site URL here](https://techeddan2.github.io/TestimonialsGridSection/)
 
 
 ## My process
